@@ -2,7 +2,7 @@
 
 Frontend Developer with a primary focus on React-based applications
 
-## Stack
+## Skills
 
 HTML, JavaScript, React, Redux, MobX, Webpack, Vite, CSS, SCSS, Bootstrap, Figma, Git
 
