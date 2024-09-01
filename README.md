@@ -12,7 +12,6 @@ HTML, JavaScript, React, Redux, MobX, Webpack, Vite, CSS, SCSS, Bootstrap, Figma
 + [Museum Art SPA: React, Redux, WebAPI](https://github.com/DariaSch167/museum-art_spa)
 + [Savings Tracker SPA: JS, Webpack, Local Storage - Team project](https://github.com/DariaSch167/VTB-API)
 + [Transfer Landing Page: HTML, SCSS, Bootstrap - Team Project](https://github.com/DariaSch167/ITGS_79_1_Transfer)
-+ [Beauty studio landing: HTML, SCSS, JS](https://github.com/DariaSch167/Delote-beauty_landing)
 
 
 <!---
