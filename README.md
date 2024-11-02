@@ -1,10 +1,10 @@
-## Hi, I'm Daria! 
+## Hello, I'm Daria! 
 
 Frontend Developer with a primary focus on React-based applications
 
 ## Skills
 
-HTML, JavaScript, React, Redux, MobX, Webpack, Vite, CSS, SCSS, Bootstrap, Figma, Git
+HTML, JavaScript, React, Redux, MobX, NextJS, Webpack, Vite, CSS, SCSS, Tailwind, Bootstrap, Figma, Git
 
 ## Portfolio
 
