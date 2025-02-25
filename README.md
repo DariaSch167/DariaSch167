@@ -12,6 +12,7 @@ HTML, JavaScript, React, Redux, MobX, NextJS, Webpack, Vite, CSS, SCSS, Tailwind
 + [Museum Art SPA: React, Redux, WebAPI](https://github.com/DariaSch167/museum-art_spa)
 + [Savings Tracker SPA: JS, Webpack, Local Storage - Team project](https://github.com/DariaSch167/VTB-API)
 + [Transfer Landing Page: HTML, SCSS, Bootstrap - Team Project](https://github.com/DariaSch167/ITGS_79_1_Transfer)
++ [CodeEditor: React, Vite, Sass, CodeMirror, MirageJS](https://github.com/DariaSch167/code-editor-test)
 + [Delivery Track & Trace: React, Redux, Bootstrap](https://github.com/DariaSch167/ftek_test-task)
 
 
